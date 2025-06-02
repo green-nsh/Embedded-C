@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Object Oriented*/
 
 // attribute
 typedef struct
